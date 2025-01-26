@@ -1,4 +1,4 @@
-name = "easynews-cloudflare-worker"
+name = "easynews-plus-streamio-addon"
 compatibility_date = "2024-08-01"
 
 # [vars]
