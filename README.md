@@ -49,7 +49,7 @@ Follow the [getting started guide](https://developers.cloudflare.com/workers/get
 
 ```bash
 $ git clone https://github.com/sleeyax/stremio-easynews-addon.git && cd stremio-easynews-addon
-$ npm i
+$ npm install
 $ npm run build
 $ npm run deploy:cloudflare-worker
 ```
